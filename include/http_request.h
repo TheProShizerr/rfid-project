@@ -1,0 +1,1 @@
+void sendHttpRequest(char *host, int port);
